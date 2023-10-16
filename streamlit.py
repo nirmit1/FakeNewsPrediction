@@ -49,5 +49,5 @@ if st.button("Classify"):
 st.sidebar.text("About")
 st.sidebar.info("This is a simple News Classification app using Streamlit.")
 
-streamlit run news_classification_app.py --server.port 8502
+streamlit run News Classification App.py --server.port 8502
 
