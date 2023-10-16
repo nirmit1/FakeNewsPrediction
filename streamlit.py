@@ -49,4 +49,4 @@ if st.button("Classify"):
 st.sidebar.text("About")
 st.sidebar.info("This is a simple News Classification app using Streamlit.")
 
-streamlit run news_classification_app.py
+streamlit run fake_news_classification (2).py
